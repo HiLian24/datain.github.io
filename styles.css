@@ -1,0 +1,29 @@
+/* 全局 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* li {
+    list-style: none;
+} */
+a {
+    text-decoration: none;
+}
+body {
+    background-color: skyblue;
+}
+.box {
+    margin: 100px auto;
+    padding: 10px 10px 0px;
+    width: 300px;
+    border: 1px solid #4d4040;
+    border-radius: 15px;
+    background-color: rgb(185, 194, 194);
+}
+.box h3 {
+    font-size: 22px;
+}
+.box i {
+   font-size: 14px; 
+}
